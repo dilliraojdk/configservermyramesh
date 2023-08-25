@@ -1,0 +1,2 @@
+# configservermyramesh
+config-server
